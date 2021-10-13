@@ -3,7 +3,7 @@
 
 - 🌱 Meus maiores interesses no momento são em **PHP, Laravel e VueJs**
 
-- 🤝 Procuro me aperfeiçoar em **Java, Spring e React Ou Angular**
+- 🤝 Procuro me aperfeiçoar constantemente e aqui disponibilizarei alguns conteúdos que estou estudando.
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p>
