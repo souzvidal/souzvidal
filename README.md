@@ -22,7 +22,6 @@
         <li> PHP, Laravel </li>
         <li> Python, Django </li>
         <li> Javascript, Node </li>
-
         <li> Docker </li>
     </ul>
 </p>
