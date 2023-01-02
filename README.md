@@ -19,7 +19,6 @@
 <p>
     <ul>
         <li> Java, Spring Boot </li>
-        <li> PHP, Laravel </li>
         <li> Docker </li>
     </ul>
 </p>
