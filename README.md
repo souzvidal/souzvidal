@@ -18,10 +18,10 @@
 <h3 align="left">Linguagens e ferramentas de interesse: </h3>
 <p>
     <ul>
-        <li> Javascript, Node, React, Vue </li>
-        <li> Coldfusion, Coldbox </li>
         <li> PHP, Laravel </li>
-        <li> Java, Spring Boot </li>
+        <li> Coldfusion, Coldbox </li>
+        <li> Python, Django </li>
+        <li> Javascript, Vue </li>
         <li> Docker </li>
     </ul>
 </p>
