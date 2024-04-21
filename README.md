@@ -3,4 +3,4 @@
 
 - 🌱 Meus maiores interesses no momento são em **Arquitetura, Desenvolvimento e DevOps**
 
-- 🤝 Procuro me aperfeiçoar constantemente e aqui disponibilizarei alguns conteúdos que estou estudando e trabalhando.
+- 🤝 Procuro me aperfeiçoar constantemente e aqui disponibilizarei alguns conteúdos que estou estudando e/ou trabalhando.
